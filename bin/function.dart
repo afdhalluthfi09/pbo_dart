@@ -11,6 +11,9 @@ void main(List<String> args) {
     return operator(number1, number2);
   }
 
+//  menyimapn function kedalam variable
+  Function f;
+  f = luas_segi;
   // double p, l, hasil;
 
   // p = double.tryParse(stdin.readLineSync());
